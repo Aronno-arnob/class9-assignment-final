@@ -210,3 +210,18 @@ background-repeat: no-repeat;
     font-size: 45px;
     margin-left: 400px;
 }
+#foot{
+    height: 200px;
+    background-color: black;
+}
+#lasth1{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+#lastp{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
