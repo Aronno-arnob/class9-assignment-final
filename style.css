@@ -1,0 +1,212 @@
+.ist{
+    display: flex;
+}
+body h1{
+    font-family: 'Anton', sans-serif;
+}
+body p{
+    font-family: 'Dela Gothic One', cursive;
+}
+body h3{
+    font-family: 'Dela Gothic One', cursive;
+}
+body h2{
+    font-family: 'Anton', sans-serif;
+}
+
+
+#h1clr{
+color: orange;
+}
+.font{
+    width: 30%;
+    text-align: justify;
+    margin-top: 50px;
+}
+.imgs{
+    width: 60%;
+    margin-left: 150px;
+    
+}
+#istimg{
+    height: 400px;
+    width: 400px;
+}
+#line{
+    font-size: 45px;
+    border-left: 4px solid;
+    border-image: linear-gradient(red,red);
+    border-image-slice: 1;
+    padding-left: 10px;
+}
+#linkist{
+    text-decoration: none;
+    background-image: linear-gradient(red,red);
+    color: white; 
+    font-weight: 750;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
+.istsec{
+    margin-bottom: 100px;
+    margin-left: 70px;
+}
+#imistbox{
+    width: 100px;
+    height: 100px;
+}
+.imst{
+    width: 360px;
+    height: 376px;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    /* margin-left: 15px; */
+    padding-left: 15px;
+    margin-right: 15px;
+}
+#h1nd{
+    margin-left: 400px;
+    font-size: 45px;
+}
+#h12022{
+    color: orange
+}
+.imnd{
+    width: 360px;
+    height: 376px;
+    background-color:plum;
+    border-radius: 10px;
+    /* margin-left: 15px; */
+    padding-left: 15px;
+    margin-right: 15px;
+}
+#imndbox{
+    width: 100px;
+    height: 100px;
+}
+.imrd{
+    width: 360px;
+    height: 376px;
+    background-color:rgb(224, 240, 86);
+    border-radius: 10px;
+    /* margin-left: 15px; */
+    padding-left: 15px;
+    margin-right: 15px;
+}
+#imrdbox{
+    width: 100px;
+    height: 100px;
+
+}
+.nd{
+display: flex;
+/* margin-bottom: 100px; */
+
+}
+.ndsec{
+    display: block;
+    margin-left: 70px;
+    margin-bottom: 130px;
+}
+.rd{
+    display: flex;
+}
+.rdist{
+    width: 30%;
+}
+.rdnd{
+    width: 30%;
+    text-align: justify;
+    margin-top: 70px;
+    margin-left: 80px;
+}
+#rdimg{
+    width: 400px;
+    height: 400px;
+}
+#linknd{
+    text-decoration: none;
+    background-image: linear-gradient(red,red);
+    color: white;
+    font-weight: 750;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.rdsec{
+    display: block;
+    margin-left: 70px;
+    margin-bottom: 150px;
+    background-image: url(images/background2.png);
+    background-repeat: no-repeat;
+    background-position:100%;
+}
+body{
+    /* margin: 00px; */
+}
+.th{
+    display: flex;
+}
+#thimg{
+    width: 400px;
+    height: 400px;
+}
+.thist{
+    width: 30%;
+    text-align: justify;
+    margin-top: 50px;
+}
+.thnd{
+width: 30%;
+margin-left:100px;
+}
+#linkrd{
+    text-decoration: none;
+    background-image: linear-gradient(red,red);
+    color: white;
+    font-weight: 750;
+    padding: 10px 20px;
+    border-radius: 5px; 
+}
+.thsec{
+    display: block;
+    margin-left: 70px;
+    margin-bottom: 100px;
+/* background-image: url(images/img11.jpeg); */
+background-repeat: no-repeat;
+/* background-position: 10px; */
+
+}
+.ethsec{
+    margin-left: 70px;
+}
+.eth{
+    display: flex;
+}
+#ethimg{
+    width: 271px;
+    height: 471px;
+    margin-left: 100px;
+}
+.ethist{
+    width: 30%;
+    /* margin-left: 100px; */
+}
+.ethnd{
+    width: 30%;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#linketh{
+    text-decoration: none;
+    background-image: linear-gradient(red,red);
+    color: white;
+    font-weight: 750;
+    padding: 10px 20px;
+    border-radius: 5px; 
+}
+#h1eth{
+    margin-bottom: 60px;
+    font-size: 45px;
+    margin-left: 400px;
+}
